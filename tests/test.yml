@@ -3,5 +3,4 @@
   remote_user: root
 
   roles:
-    - f500.nodejs
     - ansible-role-pa11y

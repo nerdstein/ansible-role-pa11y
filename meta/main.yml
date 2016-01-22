@@ -1,6 +1,5 @@
 ---
-dependencies:
-  - f500.nodejs
+dependencies: [ ]
 
 galaxy_info:
   author: nerdstein

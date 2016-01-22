@@ -17,7 +17,7 @@ install:
   - "{ echo '[defaults]'; echo 'roles_path = ../'; } >> ansible.cfg"
 
   # Install required dependencies.
-  - ansible-galaxy install Stouts.nodejs
+  - ansible-galaxy install f500.nodejs
 
 script:
   # Check the role/playbook's syntax.

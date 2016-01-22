@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - Stouts.nodejs
+  - f500.nodejs
 
 galaxy_info:
   author: nerdstein

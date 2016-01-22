@@ -1,10 +1,3 @@
 ---
-
-- name: Install nodejs
-  apt: pkg=nodejs update_cache=yes
-
-- name: Install npm
-  apt: pkg=npm update_cache=yes
-
 - name: Install pa11y.
   npm: name=pa11y global=yes

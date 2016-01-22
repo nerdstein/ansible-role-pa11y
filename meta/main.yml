@@ -1,6 +1,5 @@
 ---
-dependencies:
-  - extras
+dependencies: [ ]
 
 galaxy_info:
   author: nerdstein

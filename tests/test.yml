@@ -3,4 +3,5 @@
   remote_user: root
 
   roles:
+    - geerlingguy.nodejs
     - ansible-role-pa11y

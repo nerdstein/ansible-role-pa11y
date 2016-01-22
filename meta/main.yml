@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - geerlingguy.nodejs
+  - Stouts.nodejs
 
 galaxy_info:
   author: nerdstein

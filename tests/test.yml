@@ -3,5 +3,5 @@
   remote_user: root
 
   roles:
-    - {role: geerlingguy.nodejs, become: yes}
+    - {role: geerlingguy.nodejs, sudo: yes}
     - ansible-role-pa11y
